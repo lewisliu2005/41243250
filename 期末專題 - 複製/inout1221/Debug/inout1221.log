@@ -1,0 +1,22 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (inout1221.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  createBingoCard.c
+C:\Users\User\OneDrive\桌面\計算機程式筆試重點\第三章\期末專題 - 複製\inout1221\createBingoCard.c(11,31): warning C4013: 'generateRandomNumber' 未定義; 假設 extern 傳回整數
+  displayCardForPlayer.c
+C:\Users\User\OneDrive\桌面\計算機程式筆試重點\第三章\期末專題 - 複製\inout1221\displayCardForPlayer.c(5,8): warning C4013: 'printf' 未定義; 假設 extern 傳回整數
+  drawNumberAndMark.c
+  exist.c
+  generateRandomNumber.c
+C:\Users\User\OneDrive\桌面\計算機程式筆試重點\第三章\期末專題 - 複製\inout1221\generateRandomNumber.c(2,19): warning C4013: 'rand' 未定義; 假設 extern 傳回整數
+  hasBingo.c
+  inout1221.c
+C:\Users\User\OneDrive\桌面\計算機程式筆試重點\第三章\期末專題 - 複製\inout1221\inout1221.c(261,20): warning C4101: 'currentCard': 未參考的區域變數
+  login.c
+C:\Users\User\OneDrive\桌面\計算機程式筆試重點\第三章\期末專題 - 複製\inout1221\login.c(16,8): warning C4013: 'printf' 未定義; 假設 extern 傳回整數
+C:\Users\User\OneDrive\桌面\計算機程式筆試重點\第三章\期末專題 - 複製\inout1221\login.c(20,7): warning C4013: 'scanf' 未定義; 假設 extern 傳回整數
+C:\Users\User\OneDrive\桌面\計算機程式筆試重點\第三章\期末專題 - 複製\inout1221\login.c(21,8): warning C4013: 'strcpy' 未定義; 假設 extern 傳回整數
+  login_menu.c
+  registerUser.c
+C:\Users\User\OneDrive\桌面\計算機程式筆試重點\第三章\期末專題 - 複製\inout1221\registerUser.c(39,13): warning C4013: 'writeToFile' 未定義; 假設 extern 傳回整數
+  writeToFile.c
+  正在產生程式碼...
+  inout1221.vcxproj -> C:\Users\User\OneDrive\桌面\計算機程式筆試重點\第三章\期末專題 - 複製\Debug\main1221.exe

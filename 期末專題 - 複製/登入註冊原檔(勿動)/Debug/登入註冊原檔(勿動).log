@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (登入註冊原檔(勿動).vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  20231122.c
+C:\Users\User\OneDrive\桌面\計算機程式筆試重點\第三章\期末專題\登入註冊原檔(勿動)\20231122.c(38,20): warning C4087: 'getchar': 搭配 'void' 參數清單宣告
+C:\Users\User\OneDrive\桌面\計算機程式筆試重點\第三章\期末專題\登入註冊原檔(勿動)\20231122.c(51,20): warning C4087: 'getchar': 搭配 'void' 參數清單宣告
+C:\Users\User\OneDrive\桌面\計算機程式筆試重點\第三章\期末專題\登入註冊原檔(勿動)\20231122.c(66,29): warning C4098: 'openoutfile': 'void' 函式正在傳回值
+C:\Users\User\OneDrive\桌面\計算機程式筆試重點\第三章\期末專題\登入註冊原檔(勿動)\20231122.c(73,29): warning C4098: 'openaccfile': 'void' 函式正在傳回值
+C:\Users\User\OneDrive\桌面\計算機程式筆試重點\第三章\期末專題\登入註冊原檔(勿動)\20231122.c(80,29): warning C4098: 'openpswdfile': 'void' 函式正在傳回值
+  登入註冊原檔(勿動).vcxproj -> C:\Users\User\OneDrive\桌面\計算機程式筆試重點\第三章\期末專題\Debug\註冊系統原檔(勿動).exe
