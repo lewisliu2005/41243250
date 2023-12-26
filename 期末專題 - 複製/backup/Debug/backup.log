@@ -1,0 +1,3 @@
+﻿  backup.c
+C:\Users\User\OneDrive\桌面\計算機程式筆試重點\第三章\期末專題\backup\backup.c(263,20): warning C4101: 'currentCard': 未參考的區域變數
+  backup.vcxproj -> C:\Users\User\OneDrive\桌面\計算機程式筆試重點\第三章\期末專題\Debug\backup.exe

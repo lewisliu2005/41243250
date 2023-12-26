@@ -1,0 +1,3 @@
+﻿  bingogame.c
+C:\Users\User\OneDrive\桌面\計算機程式筆試重點\第三章\期末專題\bingo_game\bingogame.c(102,26): warning C4101: 'currentCard': 未參考的區域變數
+  bingo_game.vcxproj -> C:\Users\User\OneDrive\桌面\計算機程式筆試重點\第三章\期末專題\Debug\bingo_game.exe
